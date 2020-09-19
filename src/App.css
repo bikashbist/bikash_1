@@ -1,0 +1,67 @@
+div#root {
+  font-family: 'Roboto Slab', serif;
+}
+h1{
+  font-size: 30px;
+  border-bottom: 0px;
+  padding-bottom: 10px;
+}
+
+/* login form css */
+.login-form{
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #cccccc;
+  padding: 30px;
+}
+
+
+/* top header css */
+.top-header{
+  background-color: #ffffff;
+  box-shadow: 0.125rem 0.1875rem 0.9375rem rgba(0, 0, 0, .15);
+}
+img.logo-img{
+  width: 80px;
+  height: 55px;
+  border-radius: 5px;
+}
+
+
+/* dashbord css */
+.card-title {
+  font-size: 30px;
+}
+.card-body{
+  box-shadow: 0.125rem 0.1875rem 0.9375rem rgba(0, 0, 0, .15);
+}
+span.count-vote{
+  color: #b52f26;
+  font-size: 40px;
+  font-weight: 800;
+}
+a.profile-page{
+  color: #007bff;
+}
+
+
+/* about page */
+img.dashbord-img {
+  max-width: 100%;
+}
+
+p.card-text {
+  font-size: 17px;
+  padding: 0px 30px;
+}
+.card-subtitle {
+  font-size: 17px;
+  padding: 0px 30px;
+}
+p.voter-msg {
+  text-align: center;
+  background: #f8e7e7;
+  font-size: 20px;
+  padding: 5px;
+  font-weight: bold;
+}
